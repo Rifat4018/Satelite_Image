@@ -515,7 +515,7 @@ If you use this repository in academic research, please cite:
   title={SAHI-Augmented Multi-Architecture Satellite Image Object Detection},
   author={Mohammad Rakibul Hasan Rifat},
   year={2026},
-  url={https://github.com/yourusername/satellite-aerial-object-detection}
+  url={https://github.com/Rifat4018/Satelite_Image}
 }
 ```
 
