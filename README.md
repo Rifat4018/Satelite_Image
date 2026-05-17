@@ -1,5 +1,6 @@
+# SAHI-Augmented Multi-Architecture Satellite Image Object Detection
 # 🛰️ Satellite Aerial Object Detection: 5-Model Benchmark + SAHI Ablation
-SAHI-Augmented Multi-Architecture Satellite Image Object Detection
+
 
 <div align="center">
 
