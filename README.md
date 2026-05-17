@@ -1,4 +1,5 @@
 # 🛰️ Satellite Aerial Object Detection: 5-Model Benchmark + SAHI Ablation
+SAHI-Augmented Multi-Architecture Satellite Image Object Detection
 
 <div align="center">
 
@@ -511,8 +512,8 @@ If you use this repository in academic research, please cite:
 
 ```bibtex
 @misc{satellite_detection_benchmark_2026,
-  title={Satellite Aerial Object Detection: Multi-Architecture Benchmark with SAHI Ablation},
-  author={Your Name},
+  title={SAHI-Augmented Multi-Architecture Satellite Image Object Detection},
+  author={Mohammad Rakibul Hasan Rifat},
   year={2026},
   url={https://github.com/yourusername/satellite-aerial-object-detection}
 }
